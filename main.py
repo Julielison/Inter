@@ -18,6 +18,7 @@ def get_name_user():
 root = tk.Tk()
 
 # Define o título da janela
+#teste
 root.title("Interpretador de Comandos")
 
 # Define o tamanho da janela
