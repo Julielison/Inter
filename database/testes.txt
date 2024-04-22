@@ -1,0 +1,2 @@
+1. Longo script em python no terminal
+2. Qtd de processos que 
