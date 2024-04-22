@@ -33,4 +33,4 @@ class Database:
         self.cursor.executescript(script_sql)
 
     def check_username(self):
-        
+        pass
