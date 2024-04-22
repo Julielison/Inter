@@ -9,7 +9,7 @@ def get_name_user():
     # Instancia uma conexão com o banco de dados
     data = Database()
 
-    # Checa se o nome de usuário já existe
+    # Checa se o nome de usuário já existe 
     #if data.check_username(username):
     #     pass
 
