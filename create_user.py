@@ -7,7 +7,7 @@
 #     # Executar o processo como o usuário existente
 #     subprocess.run(comando_executar_como_usuario, shell=True)
 
-# # Exemplo de uso
+# # Exemplo de us
 # executar_processo_como_usuario_existente('fulano', 'powershell.exe')
 
 from argon2 import PasswordHasher
